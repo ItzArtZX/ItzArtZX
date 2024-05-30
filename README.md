@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=23c4e8&height=300&section=header&text=ItzArtZX&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=ItzArtZX&fontSize=90)
 <h1 align="center">Hi 👋, I'm ArtZX</h1>
 <h3 align="center">Cheats, and tools creator</h3>
 

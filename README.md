@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ItzArtZX&fontSize=90&animation=fadeIn)
 <h3 align="center">Cheats, and tools creator</h3>
 
-- 🔭 I’m currently working on [Kahoot Cheat](https://github.com/ItzArtZX/kazix)
+- 🔭 I’m currently working on Dump AI Chatbots
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">

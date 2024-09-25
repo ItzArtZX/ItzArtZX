@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ItzArtZX&fontSize=90&animation=fadeIn)
-<h3 align="center">Cheats, and tools creator</h3>
+<h3 align="center">Idiot who creates dump projects</h3>
 
 - 🔭 I’m currently working on Dump AI Chatbots
 

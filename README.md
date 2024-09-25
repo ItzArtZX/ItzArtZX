@@ -8,4 +8,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" alt="js" width="45" height="45"/>
 </p>
